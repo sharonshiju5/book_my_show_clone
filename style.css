@@ -319,8 +319,8 @@ a{
 }
 .footer{
     width: 100%;
-    height: 1600px;
-    background-color: #313035;
+    height: 1310px;
+    background-color: #333338;
 }
 .footer2{
     margin-left: 150px;
@@ -407,3 +407,122 @@ a{
 .footer3{
     margin-left: 150px;
 }
+.session17{
+    display: flex;
+    width: 100%;
+    height: 790px;
+    background-color: #333338;
+    
+    
+}
+.s17_2{
+    width: auto;
+    height: auto;
+    margin-left: 10%;
+   
+}
+.s17_2 dt{
+    color: #A5A5A5;
+    margin: 0px 0px 20px;
+    font: 12px roboto,sans-serif;
+    font-size: 12px;
+    line-height: 1.1;
+    font-weight: 400;
+    letter-spacing: 0.1px;
+    text-transform: uppercase;
+    margin: 20px 0px 20px;
+    color: rgb(165, 165, 165);
+}
+.s17_2 dd{
+    color: rgb(127, 127, 127);
+    margin-left: 0px;
+    margin: 0px 5px 5px 0px;
+    font: 11px roboto,sans-serif;
+
+}
+.session17 a{
+    font-size: 11px;
+    color: rgb(127, 127, 127);
+    letter-spacing: 0.1px;
+    text-decoration: none;
+    transition: color 0.25s ease-in-out;
+    margin: 0px 5px 5px 0px;
+    padding-right: 5px;
+    border-right: 1px solid rgb(127, 127, 127);
+}
+
+
+.session18{
+    
+    width: 100%;
+    height: 200px;
+    background-color: #333338;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.s18d{
+    position: relative;
+    margin-top: 6%;
+    width: 95%;
+    margin-left: 30px;
+    flex: 1 1 0%;
+    height: 1px;
+    background: rgb(93, 93, 95);
+}
+.s18img{
+    cursor: pointer;
+    position: relative;
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+    background-color:#333338;
+    /* background-image: url('./images/logo.svg'); */
+    background-repeat: no-repeat;
+    background-size: contain;
+    bottom:30px ;
+    left: 43%;
+    z-index: 100;
+    
+
+}
+.s18img img{
+    margin-left: 40px;
+}
+.social{
+    height: 40px;
+    display: grid;
+    width: 100%;
+    grid-template-columns: 50px 50px 50px 50px 50px 50px;
+    /* background-color: #ec5e71; */
+    align-items: center;
+    justify-content: center;
+}
+.socialimg{
+    height: 40px;
+    filter: invert(50%);
+    opacity: 0.5;
+}
+.context{
+    margin-top: 250px;
+    color: #a5a5a575;
+    font-family: sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+svg:hover{
+    color: #c71616;
+    border-radius: 50%;
+    opacity: 0.1;
+}
+
+/* secons page css */
+/* secons page css */
+/* secons page css */
+/* secons page css */
+
+
+
+
